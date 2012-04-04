@@ -60,13 +60,3 @@ for file in files:
         if ext == '.xls':
             #print os.path.join(DATA_PATH,file)
             extraRecord(os.path.join(DATA_PATH,file))
-
-
-
-        
-    
-        
-        
-        
-
-
